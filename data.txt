@@ -1,0 +1,4 @@
+dbname; null; 3
+Kesha; 2; Parrot; photo_path; notes_path;
+Barsik; 5; Cat; photo_path; notes_path;
+Rex; 3; Dog;photo_path; notes_path;
