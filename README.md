@@ -14,7 +14,7 @@ The "Recording Patients of a Veterinary Clinic App" is designed to streamline op
 ## Technologies Used
 
 This project is built using:
-- **C#** with **Windows Forms**  
+- **C++** with **Windows Forms**  
 - **.NET Framework**  
 - **Object-Oriented Programming (OOP)** principles  
 
